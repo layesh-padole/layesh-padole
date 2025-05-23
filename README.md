@@ -1,7 +1,5 @@
 # Hi there, I'm Layesh Padole 👋
 
-![ML Engineer Banner](https://github.com/layesh-padole/layesh-padole/blob/main/banner.svg)
-
 ## 🚀 About Me
 
 I'm a **Machine Learning Engineer** and **Software Developer** passionate about building intelligent systems that solve real-world problems. With a strong entrepreneurial mindset, I love creating innovative projects and contributing to the open-source community.
