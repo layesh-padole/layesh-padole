@@ -50,12 +50,6 @@ I'm a **Machine Learning Engineer** and **Software Developer** passionate about 
 ![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
-## 🎯 2025 Goals
-
-- 🚀 Launch my AI startup focused on **democratizing machine learning**
-- 📚 Publish research paper on **efficient model compression techniques**
-- 🌍 Contribute to **5 major open-source ML projects**
-
 ## 🤝 Let's Connect!
 
 <div align="center">
